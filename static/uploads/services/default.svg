@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#f0f0f0"/>
+  <text x="50%" y="50%" font-family="Arial, sans-serif" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#666">
+    No Image
+  </text>
+  <path d="M100,50 C130,50 150,70 150,100 C150,130 130,150 100,150 C70,150 50,130 50,100 C50,70 70,50 100,50 Z" 
+        fill="none" stroke="#999" stroke-width="2"/>
+  <path d="M70,90 L85,110 L115,80 L130,110" fill="none" stroke="#999" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="75" cy="75" r="8" fill="#999"/>
+</svg>
